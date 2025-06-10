@@ -74,4 +74,4 @@
 ------------
 -앱 시범 영상
 
-![앱 시범 영상](https://github.com/ere-shark/dd/blob/main/%E1%84%8B%E1%85%A2%E1%86%B8%20%E1%84%89%E1%85%B5%E1%84%87%E1%85%A5%E1%86%B7%20%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC.mov)
+![앱 시범 영상](https://github.com/ere-shark/dd/blob/main/%E1%84%8B%E1%85%A2%E1%86%B8%20%E1%84%89%E1%85%B5%E1%84%87%E1%85%A5%E1%86%B7%20%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC1.gif)

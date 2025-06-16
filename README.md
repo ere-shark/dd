@@ -78,8 +78,11 @@
 
 <img src="https://github.com/ere-shark/dd/blob/main/%E1%84%8B%E1%85%A2%E1%86%B8%20%E1%84%89%E1%85%B5%E1%84%87%E1%85%A5%E1%86%B7%20%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC1.gif" width="300" height="600"/>
 
-<video width="480" height="270" controls>
+
+
+<video width="480" controls>
   <source src="https://github.com/ere-shark/dd/raw/main/%EC%95%B1%20%EC%8B%9C%EB%B2%94%20%EC%98%81%EC%83%81.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
 

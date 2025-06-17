@@ -27,14 +27,14 @@
 ## 🧭 앱 구조
 
 ### 1. 🏠 메인화면  
-<img src="https://github.com/ere-shark/dd/blob/main/%E1%84%86%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB.png" width="150" />  
+<img src="https://github.com/ere-shark/dd/blob/main/%E1%84%86%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB.png" width="170" />  
 - ✍️ 일기 작성 화면 이동  
 - 📚 저장된 일기 목록 이동  
 
 ---
 
 ### 2. ✍️ 일기 작성 화면  
-<img src="https://github.com/ere-shark/dd/blob/main/%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%80%E1%85%B5%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%89%E1%85%A5%E1%86%BC%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB.png" width="150" />  
+<img src="https://github.com/ere-shark/dd/blob/main/%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%80%E1%85%B5%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%89%E1%85%A5%E1%86%BC%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB.png" width="170" />  
 - 📅 날짜 선택 가능  
 - 📝 제목 / 내용 작성  
 - 😊 감정 버튼 (20가지 감정)  
@@ -43,7 +43,7 @@
 ---
 
 ### 3. 📋 목록 화면  
-<img src="https://github.com/ere-shark/dd/blob/main/%E1%84%86%E1%85%A9%E1%86%A8%E1%84%85%E1%85%A9%E1%86%A8%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB.png" width="150" />  
+<img src="https://github.com/ere-shark/dd/blob/main/%E1%84%86%E1%85%A9%E1%86%A8%E1%84%85%E1%85%A9%E1%86%A8%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB.png" width="170" />  
 - 🗂 저장한 일기 리스트  
 - 🔧 일기 수정 / 삭제 가능  
 - 🌦 감정 기반 필터링 (전체, 화창, 산들바람, 비, 폭풍 등)  
@@ -51,7 +51,7 @@
 ---
 
 ### 4. 🔍 일기 상세 화면  
-<img src="https://github.com/ere-shark/dd/blob/main/%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%80%E1%85%B5%E1%84%82%E1%85%A2%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%AA%E1%86%A8%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB.png" width="150" />  
+<img src="https://github.com/ere-shark/dd/blob/main/%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%80%E1%85%B5%E1%84%82%E1%85%A2%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%AA%E1%86%A8%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB.png" width="170" />  
 - 🗓 날짜  
 - 📝 제목  
 - 😌 감정  

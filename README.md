@@ -8,10 +8,10 @@ UIkit의 sotryboard를 사용하고 swift언어를 사용함
 
 ------------
 <p float="left">
-  <img src="https://github.com/ere-shark/dd/blob/main/%E1%84%86%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB.png" width="200" />
-  <img src="https://github.com/ere-shark/dd/blob/main/%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%80%E1%85%B5%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%89%E1%85%A5%E1%86%BC%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB.png" width="200" />
-  <img src="https://github.com/ere-shark/dd/blob/main/%E1%84%86%E1%85%A9%E1%86%A8%E1%84%85%E1%85%A9%E1%86%A8%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB.png" width="200" />
-  <img src="https://github.com/ere-shark/dd/blob/main/%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%80%E1%85%B5%E1%84%82%E1%85%A2%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%AA%E1%86%A8%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB.png" width="200" />
+  <img src="https://github.com/ere-shark/dd/blob/main/%E1%84%86%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB.png" width="250" />
+  <img src="https://github.com/ere-shark/dd/blob/main/%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%80%E1%85%B5%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%89%E1%85%A5%E1%86%BC%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB.png" width="250" />
+  <img src="https://github.com/ere-shark/dd/blob/main/%E1%84%86%E1%85%A9%E1%86%A8%E1%84%85%E1%85%A9%E1%86%A8%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB.png" width="250" />
+  <img src="https://github.com/ere-shark/dd/blob/main/%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%80%E1%85%B5%E1%84%82%E1%85%A2%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%AA%E1%86%A8%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB.png" width="250" />
 </p>
 
 
@@ -41,7 +41,7 @@ UIkit의 sotryboard를 사용하고 swift언어를 사용함
 ------------
 -메인화면
 
-![메인화면](https://github.com/ere-shark/dd/blob/main/%E1%84%86%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB.png)
+<img src="https://github.com/ere-shark/dd/blob/main/%E1%84%86%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB.png" width="100" />
 
 일기작성화면가는 버튼
 
@@ -51,7 +51,7 @@ UIkit의 sotryboard를 사용하고 swift언어를 사용함
 ------------
 -일기작성화면
 
-![일기작성화면](https://github.com/ere-shark/dd/blob/main/%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%80%E1%85%B5%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%89%E1%85%A5%E1%86%BC%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB.png)
+<img src="https://github.com/ere-shark/dd/blob/main/%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%80%E1%85%B5%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%89%E1%85%A5%E1%86%BC%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB.png" width="100" />
 
 날짜선택가능
 
@@ -65,7 +65,7 @@ UIkit의 sotryboard를 사용하고 swift언어를 사용함
 ------------
 -목록화면
 
-![목록화면](https://github.com/ere-shark/dd/blob/main/%E1%84%86%E1%85%A9%E1%86%A8%E1%84%85%E1%85%A9%E1%86%A8%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB.png)
+<img src="https://github.com/ere-shark/dd/blob/main/%E1%84%86%E1%85%A9%E1%86%A8%E1%84%85%E1%85%A9%E1%86%A8%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB.png" width="100" />
 
 저장한 일기 표시
 
@@ -79,7 +79,7 @@ UIkit의 sotryboard를 사용하고 swift언어를 사용함
 ------------
 -일기내용확인화면
 
-![일기내용확인화면](https://github.com/ere-shark/dd/blob/main/%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%80%E1%85%B5%E1%84%82%E1%85%A2%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%AA%E1%86%A8%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB.png)
+<img src="https://github.com/ere-shark/dd/blob/main/%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%80%E1%85%B5%E1%84%82%E1%85%A2%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%AA%E1%86%A8%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB.png" width="100" />
 
 날짜, 제목, 감정, 일기내용표시
 

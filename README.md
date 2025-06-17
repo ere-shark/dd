@@ -4,8 +4,17 @@
 사용자의 하루 일어났던 일을 감정을 포함해 일기로 작성하고 감정들을 날씨로 카테고리를 만들어 편하게 다시 볼수있는 앱입니다.
 
 ------------
-UIkitdml sotryboard를 사용하고 swift언어를 사용함
+UIkit의 sotryboard를 사용하고 swift언어를 사용함
+
 ------------
+<p float="left">
+  <img src="https://github.com/ere-shark/dd/blob/main/%E1%84%86%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB.png" width="200" />
+  <img src="https://github.com/ere-shark/dd/blob/main/%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%80%E1%85%B5%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%89%E1%85%A5%E1%86%BC%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB.png" width="200" />
+  <img src="https://github.com/ere-shark/dd/blob/main/%E1%84%86%E1%85%A9%E1%86%A8%E1%84%85%E1%85%A9%E1%86%A8%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB.png" width="200" />
+  <img src="https://github.com/ere-shark/dd/blob/main/%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%80%E1%85%B5%E1%84%82%E1%85%A2%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%AA%E1%86%A8%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB.png" width="200" />
+</p>
+
+
 -앱의 화면 구성
 
 1.매인화면
@@ -79,12 +88,3 @@ UIkitdml sotryboard를 사용하고 swift언어를 사용함
 -앱 시범 영상
 
 <img src="https://github.com/ere-shark/dd/blob/main/%E1%84%8B%E1%85%A2%E1%86%B8%20%E1%84%89%E1%85%B5%E1%84%87%E1%85%A5%E1%86%B7%20%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC1.gif" width="300" height="600"/>
-
-
-
-<video width="480" controls>
-  <source src="https://github.com/ere-shark/dd/raw/main/%EC%95%B1%20%EC%8B%9C%EB%B2%94%20%EC%98%81%EC%83%81.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-
